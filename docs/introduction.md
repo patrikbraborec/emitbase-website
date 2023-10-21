@@ -7,7 +7,7 @@ Welcome to the Emitbase documentation! 👋
 
 ## What is Emitbase?
 
-Emitbase is an open-source alerts platform for developers. It allows you to connect to a database, define the logic of alerts in SQL, and specify channels for alerts (Email or Slack). 
+Emitbase is an open-source alerts platform for developers. It allows you to connect to a database, define the logic of alerts in SQL, and specify channels for alerts (Email or [Slack](https://slack.com/)). 
 
 ## Who is it for?
 

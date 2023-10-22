@@ -11,7 +11,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   url: "https://emitbase.github.io",
-  baseUrl: "/",
+  baseUrl: "/emitbase-website/",
 
   organizationName: "emitbase",
   projectName: "emitbase.github.io", 

@@ -28,7 +28,7 @@ $ yarn add global @emitbase/emitbase-cli
 ### Step 2: Create a new project
 
 ```bash
-$ npx emitbase <your-project-name>
+$ npx emitbase init <your-project-name>
 ```
 
 ## Setup your Emitbase project
@@ -106,7 +106,7 @@ first_threshold:
 To run the project, you will need to build a Docker image:
 
 ```bash
-$ docker build -t emitbase
+$ docker build -t emitbase .
 ```
 
 ### Step 5: Run docker image 🚀

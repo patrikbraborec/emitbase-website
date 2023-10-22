@@ -6,5 +6,3 @@ tags: [introduction]
 ---
 
 Introducing Emitbase!
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)

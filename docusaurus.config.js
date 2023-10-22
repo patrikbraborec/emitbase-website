@@ -7,27 +7,18 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "The open-source alerts and notifications solution for developers",
-  tagline:
-    "Write SQL query, configure channels (Email, Slack, and APIs), and wait for alerts and notifications",
+  tagline: "The open-source alerts and notifications solution for developers",
   favicon: "img/favicon.ico",
 
-  // Set the production url of your site here
-  url: "https://your-docusaurus-test-site.com",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: "https://emitbase.github.io",
   baseUrl: "/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "emitbase", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "emitbase",
+  projectName: "emitbase.github.io", 
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
     locales: ["en"],

@@ -41,4 +41,4 @@ Emitbase is still in **beta**. We do not recommend using it for critical product
 
 - Start with [Getting Started](/docs/getting-started.md).
 - Give ⭐️ to the [Emitbase](https://github.com/emitbase/emitbase-core) project on GitHub ❤️.
-- Connect with us in the [Community](/docs/community/).
+- Connect with us in the [Community](/docs/community/slack).

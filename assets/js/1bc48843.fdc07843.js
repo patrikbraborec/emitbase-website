@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[479],{19:e=>{e.exports=JSON.parse('{"permalink":"/emitbase-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

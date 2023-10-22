@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[572],{6692:s=>{s.exports=JSON.parse('[{"label":"introduction","permalink":"/emitbase-website/blog/tags/introduction","count":1}]')}}]);

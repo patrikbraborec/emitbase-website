@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing Emitbase \ud83d\udd25","permalink":"/emitbase-website/blog/introducing-emitbase"}]}')}}]);

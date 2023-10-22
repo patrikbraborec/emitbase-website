@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Integration with email
 ---
 
-If you have defined [thresholds](./thresholds.md) and want to send email [notificatioms](./notifications.md), here is a simple guide. The guide uses [Gmail](https://www.google.com/intl/en/gmail/about/) as a service for sending emails via Simple Mail Transfer Protocol (SMTP). The principles described in this guide also apply to other email services.
+If you have defined [Thresholds](./thresholds.md) and want to send email [Notificatioms](./notifications.md), here is a simple guide. The guide uses [Gmail](https://www.google.com/intl/en/gmail/about/) as a service for sending emails via Simple Mail Transfer Protocol (SMTP). The principles described in this guide also apply to other email services.
 
 :::info
 
@@ -13,7 +13,7 @@ You need to turn on [2-Step Verification](https://support.google.com/accounts/an
 
 ## Get an App Password
 
-If you have enabled 2-Step Verification, you must create an app-specific password for your Emitbae project. Without it, SMTP will not work.
+If you have enabled 2-Step Verification, you must create an app-specific password for your Emitbae project.
 
 1. Open [Google App Passwords](https://myaccount.google.com/apppasswords) (sign in to your account, if necessary).
 2. Enter your app name (i.e. `my-first-emitbase-project`), then click Generate.

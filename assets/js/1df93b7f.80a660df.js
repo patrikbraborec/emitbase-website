@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[237],{9754:(e,s,t)=>{t.r(s),t.d(s,{default:()=>i});var c=t(7294),a=t(6550);function i(){return c.createElement(a.l_,{to:"/emitbase-website/docs/introduction"})}}}]);

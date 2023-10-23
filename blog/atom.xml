@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://emitbase.github.io/emitbase-website/blog</id>
-    <title>The open-source alerts and notifications solution for developers Blog</title>
+    <title>Emitbase is an open-source alerts platform for developers Blog</title>
     <updated>2023-10-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://emitbase.github.io/emitbase-website/blog"/>
-    <subtitle>The open-source alerts and notifications solution for developers Blog</subtitle>
+    <subtitle>Emitbase is an open-source alerts platform for developers Blog</subtitle>
     <icon>https://emitbase.github.io/emitbase-website/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Introducing Emitbase 🔥]]></title>
         <id>https://emitbase.github.io/emitbase-website/blog/introducing-emitbase</id>
         <link href="https://emitbase.github.io/emitbase-website/blog/introducing-emitbase"/>
         <updated>2023-10-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Emitbase!]]></summary>
-        <content type="html"><![CDATA[<p>Introducing Emitbase!</p>]]></content>
+        <summary type="html"><![CDATA[Emitbase is an open-source alerts platform for developers. It allows you to connect to a database, define the logic of alerts in SQL, and specify channels for alerts (Email or Slack).]]></summary>
+        <content type="html"><![CDATA[<p>Emitbase is an open-source alerts platform for developers. It allows you to connect to a database, define the logic of alerts in SQL, and specify channels for alerts (Email or <a href="https://slack.com/" target="_blank" rel="noopener noreferrer">Slack</a>).</p>]]></content>
         <author>
             <name>Patrik Braborec</name>
             <uri>https://github.com/patrikbraborec</uri>

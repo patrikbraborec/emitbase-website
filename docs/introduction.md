@@ -19,7 +19,7 @@ Emitbase may be a good fit if you are:
 
 ## How does it work?
 
-1. You write SQL to define an alert, for example: SELECT temp `FROM metrics WHERE temp > 30`.
+1. You write SQL to define an alert, for example: `SELECT temp FROM metrics WHERE temp > 30`.
 2. You specify how often the SQL should run using CRON notation, such as: `*/5 * * * *`.
 3. You define channels and messages that should be sent (Email or Slack).
 4. The SQL query runs every time you specify in CRON:

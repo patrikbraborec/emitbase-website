@@ -110,11 +110,21 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Emitbase`,
       },
+
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
+    
+    scripts: [
+      {
+        src: '//static.getclicky.com/js',
+        "data-id": '101431640',
+        async: true,
+        type: 'text/jsx'
+      }
+    ]
 };
 
 module.exports = config;
